@@ -1,0 +1,4 @@
+mnemonic==0.20
+eth-account==0.8.0
+solana==0.30.2
+base58==2.1.1
